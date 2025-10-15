@@ -56,9 +56,9 @@ public class BestiaryManager : MonoBehaviour
 	{
 		_ENEMYLIST = new EnemyType[] {
 			// 1: IMP
-			new EnemyType ( _id : 1, _hpValue : 200, _level : 2, _atkValue : 28, _defValue :  4, _evaValue : 0, _expValue : 100, _tag : "humanoid", _modelName : "imp", _boss : false, _specialId : "", _battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 1.3f, _attackTiming : 0.2f),
+			new EnemyType ( _id : 1, _hpValue : 200, _level : 2, _atkValue : 28, _defValue :  4, _evaValue : 0, _expValue : 10, _tag : "humanoid", _modelName : "imp", _boss : false, _specialId : "", _battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 1.3f, _attackTiming : 0.2f),
 			// 2: RENTAUR
-			new EnemyType ( _id : 2, _hpValue : 200, _level : 3, _atkValue : 15, _defValue :  6, _evaValue : 0, _expValue : 100, _tag : "beast", _modelName : "rentaur", _boss : false, _specialId : "", _battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 2f, _attackTiming : 0.15f),
+			new EnemyType ( _id : 2, _hpValue : 200, _level : 3, _atkValue : 15, _defValue :  6, _evaValue : 0, _expValue : 20, _tag : "beast", _modelName : "rentaur", _boss : false, _specialId : "", _battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 2f, _attackTiming : 0.15f),
 			// 3: MECHANICAL SENTRY
 			new EnemyType ( _id : 3, _hpValue : 420, _level : 3, _atkValue : 30, _defValue :  9, _evaValue : 0, _expValue : 30, _tag : "machine", _modelName : "mechsentry", _boss : false, _specialId : "", _battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 1.3f, _attackTiming : 0.25f),
 			// 4: HALL MONITOR

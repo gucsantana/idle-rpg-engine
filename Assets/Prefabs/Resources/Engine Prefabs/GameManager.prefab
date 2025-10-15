@@ -1,0 +1,166 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2345789208667367262
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7881904671922028902}
+  - component: {fileID: 6725150808427334695}
+  - component: {fileID: 1849650183}
+  - component: {fileID: 1849650185}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: GameManager
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7881904671922028902
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2345789208667367262}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6725150808427334695
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2345789208667367262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f84889b445a72b4b9086fd78ea87711, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _equipWeapon:
+    _id: 0
+    _name: 
+    _atkValue: 0
+    _defValue: 0
+    _critValue: 0
+    _icon: 
+    _description: 
+  _equipHead:
+    _id: 0
+    _name: 
+    _atkValue: 0
+    _defValue: 0
+    _evaValue: 0
+    _critValue: 0
+    _icon: 
+    _description: 
+  _equipArmor:
+    _id: 0
+    _name: 
+    _atkValue: 0
+    _defValue: 0
+    _evaValue: 0
+    _icon: 
+    _description: 
+  _equipBoots:
+    _id: 0
+    _name: 
+    _atkValue: 0
+    _defValue: 0
+    _evaValue: 0
+    _icon: 
+    _description: 
+  _equipAcc:
+    _id: 0
+    _name: 
+    _atkValue: 0
+    _defValue: 0
+    _evaValue: 0
+    _critValue: 0
+    _icon: 
+    _description: 
+  _equipSkill:
+    _id: 0
+    _name: 
+    _effect: 
+    _cooldown: 0
+    _multiplier: 0
+    _icon: 
+    _description: 
+  _weaponList: []
+  _headgearList: []
+  _armorList: []
+  _bootsList: []
+  _accList: []
+  _skillList: []
+  _playerLevel: 1
+  _statHpCurrent: 100
+  _statHpMax: 100
+  _statStrength: 12
+  _statIntelligence: 10
+  _statAgility: 10
+  _statStamina: 10
+  _statStrengthModded: 0
+  _statIntelligenceModded: 0
+  _statAgilityModded: 0
+  _statStaminaModded: 0
+  _statAttack: 0
+  _statMagic: 0
+  _statEvasion: 0
+  _statDefense: 0
+  _statCrit: 0
+  _experience: 0
+  _lootBox: []
+  _currentArea: 0
+  _facingEnemy: 0
+  _fainted: 0
+  _equipChangeQueued: 0
+  _areaChangeQueued: 0
+  _autoSave: 0
+  _saveSlot: 1
+  _testSave: 0
+  _debugMode: 1
+  _startingLevel: 1
+  _startingArea: 1
+  _unlockAllGear: 0
+  _skipIntro: 1
+--- !u!114 &1849650183
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2345789208667367262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed8b8ae8bd189134c8ab3dad5f7ae318, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &1849650185
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2345789208667367262}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fb7b8aecd11e8e84592f075e1ccf1ada, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _WEAPONLIST: []
+  _HEADGEARLIST: []
+  _ARMORLIST: []
+  _BOOTSLIST: []
+  _ACCLIST: []
+  _SKILLLIST: []
+  _finishedLoad: 0

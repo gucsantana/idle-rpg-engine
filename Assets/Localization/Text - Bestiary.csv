@@ -1,0 +1,36 @@
+Key,English(en),Portuguese(pt),Japanese(ja)
+ENEMY_NAME_1,Imp,Diabrete,-
+ENCOUNTER_1,The air around you smells of sulphur. An Imp approaches!,O ar à sua volta fede a enxofre. Um Diabrete se aproxima!,-
+ATKMISS_1,"The imp attempts to scratch you, but you sidestep it without breaking a sweat.","O diabrete tenta te arranhar, mas você desvia dele sem dificuldade.",-
+ATKHIT_1_0,"The imp throws itself at your shins, tripping you over for $dmg damage.","O diabrete se joga nas suas canelas, te derrubando por $dmg de dano.",-
+ATKHIT_1_1,"The imp's scrapes you with gross fingernails, for $dmg damage.","O diabrete te arranha com unhas nojentas, causando $dmg de dano.",-
+ENEMY_NAME_2,Rentaur,Rentauro,レントアー
+ENCOUNTER_2,The rumble of hooves reaches you across the plains. A Rentaur approaches!,-,-
+ATKMISS_2,"The rentaur attempts to gore you with its horns, but you swiftly dodge out of the way.",-,-
+ATKHIT_2_0,"The rentaur kicks you in the chest, and you gasp for air. $dmg damage!",-,-
+ATKHIT_2_1,The rentaur slices at you with razor-sharp horns for $dmg damage!,-,-
+ENEMY_NAME_3,Mechanical Sentry,Sentinela Mecânica,-
+ENCOUNTER_3,You hear the whirring of gears and the scraping of metal. A mechanical sentry pops up!,-,-
+ATKMISS_3,"The sentry spins its blade around, but you're well out of range.",-,-
+ATKHIT_3_0,"You don't expect the sentry to move so quickly, and it slices you for $dmg damage.",-,-
+ATKHIT_3_1,"The sentry ejects a blast of steam at you, scalding your skin. You take $dmg damage.",-,-
+ENEMY_NAME_4,Hall Monitor,Monitor do Salão,-
+ENCOUNTER_4,"A large lizard slithers toward you before standing up and flexing its scales.",-,-
+ATKMISS_4,"The big reptile misses you by inches, hissing in frustration.",-,-
+ATKHIT_4_0,"You dodge the tail swipe, but aren't fast enough to dodge the bite that follows. $dmg damage!",-,-
+ATKHIT_4_1,"The big lizard bounces directly into you, squashing you into the cold floor for $dmg damage.",-,-
+ENEMY_NAME_5,Merman,Sereio,-
+ENCOUNTER_5,"A fin darts through the water towards you, scaly limbs exploding out of the water. A merman approaches!",-,-
+ATKMISS_5,"You dodge out of the swipe at the last minute, a fleshy fin slapping softly against your armor.",-,-
+ATKHIT_5_0,"The merman disappears underwater and slashes at you from below, catching you in full for $dmg damage.",-,-
+ATKHIT_5_1,"The merman spits at you, hitting you in the face, and for some reason it burns fiercely. $dmg damage.",-,-
+ENEMY_NAME_6,Water Elemental,Elemental da Água,-
+ENCOUNTER_6,"A magicked orb emerges from the water, orbited by liquid and aggression. A water elemental!",-,-
+ATKMISS_6,"The elemental almost drags you underwater, but you kick out of the way.",-,-
+ATKHIT_6_0,"The elemental punches you in the chest with fists of water. You don't expect it to hit so hard. $dmg damage.",-,-
+ATKHIT_6_1,"You're hit with a blindingly fast glob of water that deals $dmg damage and knocks you off-center.",-,-
+ENEMY_NAME_7,God of Wishes,Deus dos Desejos,-
+ENCOUNTER_7,"At an altar in the distance, a presence floats within a cocoon of metal and death. Your wishes will come at a cost.",-,-
+ATKMISS_7,"The laser hisses at you, shaving an inch of your hair and nearly blinding you.",-,-
+ATKHIT_7_0,"You're hit by a scalding blast of amaranth light. $dmg damage.",-,-
+ATKHIT_7_1,"The laser cuts through your skin like a fine razor, and you agonize. $dmg damage.",-,-

@@ -1,0 +1,13 @@
+Key,English(en),Portuguese(pt),Japanese(ja)
+ERR_INSUFF_LEVEL,You must reach level $lvl to venture into the next area.,Você precisa estar no nível $lvl antes de entrar na próxima área.,-
+GET_ITEM,Obtained an item!,Obteve um item!,-
+GET_ITEM_RARE,Obtained a rare item!,Obteve um item raro!,-
+LOOTBOX_FULL,The loot box is full! Item discarded.,A caixa de tesouros está cheia! Item descartado.,-
+EVENT_HEAL,You heal yourself for $curetotal hit points with $skillname.,"Você se cura por $curetotal pontos de vida, com a habilidade $skillname.",-
+EVENT_MISS,You whiff the attack.,Seu ataque não acerta.,-
+EVENT_SPECIAL,You hit the enemy for $dmg damage with $skillname.,Você acerta o inimigo por $dmg de dano com a habilidade $skillname.,-
+EVENT_CRIT,"You critically hit the enemy in the sweet spot, for $dmg damage.","Você acerta o inimigo no ponto fraco, causando $dmg de dano.",-
+EVENT_DMG,"You hit the enemy, dealing $dmg damage.","Você acerta o inimigo, causando $dmg de dano.",-
+EXP_OBTAINED,Obtained $exp experience points,Obteve $exp pontos de experiência,-
+EXP_OBTAINED_LOG,Victory! Obtained $exp experience points.,Vitória! Obteve $exp pontos de experiência.,-
+EVENT_DEFEAT,Defeated...,Derrotado...,-

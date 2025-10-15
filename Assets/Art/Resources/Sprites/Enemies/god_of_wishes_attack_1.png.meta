@@ -1,0 +1,430 @@
+fileFormatVersion: 2
+guid: 7fb31e1e3fcb0b547977d912f5183bfc
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e511ef377f3624e43b981943f32ad005
+      internalID: -1230048311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe7051d83df1c4438f927d8c2033100
+      internalID: 551226081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e03a7382ea8be49adcf0e9e1a3c046
+      internalID: -1771298142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f21376b050ab22438dc8ed3edce3897
+      internalID: -918589245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15146ff0bebeed345996acad342cdbf6
+      internalID: 1504241068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b12ae9e4acb84b4eb67d8077566b712
+      internalID: -1604678846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d1fa13ddb802146a28b9e68a288d2c
+      internalID: -1628298579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d8f1e59373dce47a5f41f9c7cb8586
+      internalID: -1776092416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39192292473c03f479ea0f0842d44464
+      internalID: 890139092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68e82c708fd59d42abad17d8f622d4b
+      internalID: -1705050989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ae044f3ebd184cba61343100b9a84
+      internalID: -27527995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebeb71045d10bb4468d54bb2ac005c47
+      internalID: 1407865559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf2cdd198423a47bb4a365dd8574ea
+      internalID: 2116206000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_attack_1_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b74f37166517a4c9b5665f66dd3430
+      internalID: -585750516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      god_of_wishes_attack_1_9: -1705050989
+      god_of_wishes_attack_1_3: -918589245
+      god_of_wishes_attack_1_0: -1230048311
+      god_of_wishes_attack_1_4: 1504241068
+      god_of_wishes_attack_1_6: -1628298579
+      god_of_wishes_attack_1_5: -1604678846
+      god_of_wishes_attack_1_2: -1771298142
+      god_of_wishes_attack_1_7: -1776092416
+      god_of_wishes_attack_1_13: -585750516
+      god_of_wishes_attack_1_8: 890139092
+      god_of_wishes_attack_1_1: 551226081
+      god_of_wishes_attack_1_11: 1407865559
+      god_of_wishes_attack_1_10: -27527995
+      god_of_wishes_attack_1_12: 2116206000
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

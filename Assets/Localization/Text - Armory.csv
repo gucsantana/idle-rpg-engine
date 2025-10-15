@@ -1,0 +1,41 @@
+Key,English(en),Portuguese(pt),Japanese(ja)
+WEAPON_NAME1,Bronze Blade,-,-
+WEAPON_DESC1,"A well-worn heirloom, barely sharper than a toothpick.",-,-
+WEAPON_NAME2,Nomadic Saber,-,-
+WEAPON_DESC2,A cavalry saber typically used by nomadic tribes of the steppes.,-,-
+WEAPON_NAME3,Shamshir,-,-
+WEAPON_DESC3,"A lavishly ornate sword that is, nonetheless, sharp enough to cut through a horse.",-,-
+HEADG_NAME1,Food Tin,-,-
+HEADG_DESC1,"Still faintly smells like peach.",-,-
+HEADG_NAME2,Barbut,-,-
+HEADG_DESC2,"A well-rounded helmet that makes you feel like part of a phalanx.",-,-
+HEADG_NAME3,Sallet,-,-
+HEADG_DESC3,"A tough helmet to protect your bonce, with multiple deflection areas.",-,-
+ARMOR_NAME1,Leather Cuirass,-,-
+ARMOR_DESC1,"Tightly strapped cow leather cuirass, for the farmer who also wants to survive a few wolf bites.",-,-
+ARMOR_NAME2,Brigandine,-,-
+ARMOR_DESC2,"A form-fitting, padded leather armor, with a number of studs and buckles.",-,-
+ARMOR_NAME3,Plate Armor,-,-
+ARMOR_DESC3,"Extremely sturdy armor made of interlocking plates.",-,-
+BOOTS_NAME1,Padded Boots,-,-
+BOOTS_DESC1,"Comfortable boots, if a bit too worn for a long trip.",-,-
+BOOTS_NAME2,Steel-toe Boots,-,-
+BOOTS_DESC2,"Hefty boots, easy to kick someone's face in with.",-,-
+BOOTS_NAME3,Cobalt Greaves,-,-
+BOOTS_DESC3,"Leg armor made of thick plates of a magnetic metal.",-,-
+ACC_NAME1,Peace Necklace,-,-
+ACC_DESC1,"A floaty necklace that puts your mind at ease and lets you recover faster from fainting.",-,-
+ACC_NAME2,Ring of Agility,-,-
+ACC_DESC2,"A ring that improves your nimbleness and lets you dodge more easily.",-,-
+ACC_NAME3,Hero's Bandanna,-,-
+ACC_DESC3,"A flowy, red bandanna that imbues you with the strength of heroes past.",-,-
+SKILL_NAME1,Triple Stab,-,-
+SKILL_DESC1,"A combo of flailing strikes that deal additional damage.",-,-
+SKILL_NAME2,Mend Wounds,-,-
+SKILL_DESC2,"Channels and absorbs ambient aether to heal your wounds slightly.",-,-
+SKILL_NAME3,Elemental Killer,-,-
+SKILL_DESC3,Mastery allows you to deal extra damage to elemental monsters.,-,-
+SKILL_NAME4,Thundershock,-,-
+SKILL_DESC4,Calls down a lightning bolt that deals heavy magical damage.,-,-
+SKILL_NAME5,Catastrophe,-,-
+SKILL_DESC5,A flashy technique that deals crippling physical damage.,-,-

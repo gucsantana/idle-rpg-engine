@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: Gameplay Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: Gameplay
+  m_TableCollectionNameGuidString: e7bd642890988cf429c3017f4dc1a8fb
+  m_Entries:
+  - m_Id: 51032862720
+    m_Key: ERR_INSUFF_LEVEL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51066417152
+    m_Key: GET_ITEM
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51074805760
+    m_Key: GET_ITEM_RARE
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51074805761
+    m_Key: LOOTBOX_FULL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51074805762
+    m_Key: EVENT_HEAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51074805763
+    m_Key: EVENT_MISS
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51074805764
+    m_Key: EVENT_SPECIAL
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51079000064
+    m_Key: EVENT_CRIT
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51079000065
+    m_Key: EVENT_DMG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51079000066
+    m_Key: EXP_OBTAINED
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51079000067
+    m_Key: EXP_OBTAINED_LOG
+    m_Metadata:
+      m_Items: []
+  - m_Id: 51079000068
+    m_Key: EVENT_DEFEAT
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 193692748498075692
+  references:
+    version: 2
+    RefIds:
+    - rid: 193692748498075692
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1666765950177

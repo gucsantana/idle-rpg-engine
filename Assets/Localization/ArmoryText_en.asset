@@ -1,0 +1,188 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: ArmoryText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 4bc8f592ba9fd614e8e1d6ec58128d49, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 28085825536
+    m_Localized: Bronze Blade
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574272
+    m_Localized: A well-worn heirloom, barely sharper than a toothpick.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574273
+    m_Localized: Nomadic Saber
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574274
+    m_Localized: A cavalry saber typically used by nomadic tribes of the steppes.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574275
+    m_Localized: Shamshir
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574276
+    m_Localized: A lavishly ornate sword that is, nonetheless, sharp enough to cut
+      through a horse.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574277
+    m_Localized: Food Tin
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574278
+    m_Localized: Still faintly smells like peach.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574279
+    m_Localized: Barbut
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574280
+    m_Localized: A well-rounded helmet that makes you feel like part of a phalanx.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574281
+    m_Localized: Sallet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574282
+    m_Localized: A tough helmet to protect your bonce, with multiple deflection areas.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574283
+    m_Localized: Leather Cuirass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574284
+    m_Localized: Tightly strapped cow leather cuirass, for the farmer who also wants
+      to survive a few wolf bites.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574285
+    m_Localized: Brigandine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574286
+    m_Localized: A form-fitting, padded leather armor, with a number of studs and
+      buckles.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574287
+    m_Localized: Plate Armor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574288
+    m_Localized: Extremely sturdy armor made of interlocking plates.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574289
+    m_Localized: Padded Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574290
+    m_Localized: Comfortable boots, if a bit too worn for a long trip.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574291
+    m_Localized: Steel-toe Boots
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574292
+    m_Localized: Hefty boots, easy to kick someone's face in with.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574293
+    m_Localized: Peace Necklace
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574294
+    m_Localized: A floaty necklace that puts your mind at ease and lets you recover
+      faster from fainting.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574295
+    m_Localized: Ring of Agility
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574296
+    m_Localized: A ring that improves your nimbleness and lets you dodge more easily.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574297
+    m_Localized: Hero's Bandanna
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574298
+    m_Localized: A flowy, red bandanna that imbues you with the strength of heroes
+      past.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574299
+    m_Localized: Triple Stab
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574300
+    m_Localized: A combo of flailing strikes that deal additional damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574301
+    m_Localized: Mend Wounds
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574302
+    m_Localized: Channels and absorbs ambient aether to heal your wounds slightly.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574303
+    m_Localized: Elemental Killer
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574304
+    m_Localized: Mastery allows you to deal extra damage to elemental monsters.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574305
+    m_Localized: Thundershock
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574306
+    m_Localized: Calls down a lightning bolt that deals heavy magical damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574307
+    m_Localized: Catastrophe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 28123574308
+    m_Localized: A flashy technique that deals crippling physical damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239103598082801664
+    m_Localized: Cobalt Greaves
+    m_Metadata:
+      m_Items: []
+  - m_Id: 239103598099578880
+    m_Localized: Leg armor made of thick plates of a magnetic metal.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

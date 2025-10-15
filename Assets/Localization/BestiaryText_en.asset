@@ -1,0 +1,183 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: BestiaryText_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 752a5078bbe2a9344b522621c3bcf882, type: 2}
+  m_Metadata:
+    m_Items: []
+  m_TableData:
+  - m_Id: 24384438513664
+    m_Localized: The imp's scrapes you with gross fingernails, for $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24384434319363
+    m_Localized: The imp throws itself at your shins, tripping you over for $dmg
+      damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24384434319362
+    m_Localized: The imp attempts to scratch you, but you sidestep it without breaking
+      a sweat.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24384434319361
+    m_Localized: The air around you smells of sulphur. An Imp approaches!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 24384434319360
+    m_Localized: Imp
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757357703168
+    m_Localized: Rentaur
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757395451904
+    m_Localized: The rumble of hooves reaches you across the plains. A Rentaur approaches!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757395451905
+    m_Localized: The rentaur attempts to gore you with its horns, but you swiftly
+      dodge out of the way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646208
+    m_Localized: The rentaur kicks you in the chest, and you gasp for air. $dmg damage!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646209
+    m_Localized: The rentaur slices at you with razor-sharp horns for $dmg damage!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646210
+    m_Localized: Mechanical Sentry
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646211
+    m_Localized: You hear the whirring of gears and the scraping of metal. A mechanical
+      sentry pops up!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646212
+    m_Localized: The sentry spins its blade around, but you're well out of range.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646213
+    m_Localized: You don't expect the sentry to move so quickly, and it slices you
+      for $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646214
+    m_Localized: The sentry ejects a blast of steam at you, scalding your skin. You
+      take $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646215
+    m_Localized: Hall Monitor
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646216
+    m_Localized: A large lizard slithers toward you before standing up and flexing
+      its scales.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646217
+    m_Localized: The big reptile misses you by inches, hissing in frustration.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646218
+    m_Localized: You dodge the tail swipe, but aren't fast enough to dodge the bite
+      that follows. $dmg damage!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 228757399646219
+    m_Localized: The big lizard bounces directly into you, squashing you into the
+      cold floor for $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717118433570816
+    m_Localized: Merman
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717118458736640
+    m_Localized: A fin darts through the water towards you, scaly limbs exploding
+      out of the water. A merman approaches!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717118458736641
+    m_Localized: You dodge out of the swipe at the last minute, a fleshy fin slapping
+      softly against your armor.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717118458736642
+    m_Localized: The merman disappears underwater and slashes at you from below,
+      catching you in full for $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2717118462930944
+    m_Localized: The merman spits at you, hitting you in the face, and for some reason
+      it burns fiercely. $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229791168651476992
+    m_Localized: Water Elemental
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229791168672448512
+    m_Localized: A magicked orb emerges from the water, orbited by liquid and aggression.
+      A water elemental!
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229791168672448513
+    m_Localized: The elemental almost drags you underwater, but you kick out of the
+      way.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229791168672448514
+    m_Localized: The elemental punches you in the chest with fists of water. You
+      don't expect it to hit so hard. $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 229791168672448515
+    m_Localized: You're hit with a blindingly fast glob of water that deals $dmg
+      damage and knocks you off-center.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233918008727060480
+    m_Localized: God of Wishes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233918008756420608
+    m_Localized: At an altar in the distance, a presence floats within a cocoon of
+      metal and death. Your wishes will come at a cost.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233918008756420609
+    m_Localized: The laser hisses at you, shaving an inch of your hair and nearly
+      blinding you.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233918008756420610
+    m_Localized: You're hit by a scalding blast of amaranth light. $dmg damage.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 233918008756420611
+    m_Localized: The laser cuts through your skin like a fine razor, and you agonize.
+      $dmg damage.
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds: []

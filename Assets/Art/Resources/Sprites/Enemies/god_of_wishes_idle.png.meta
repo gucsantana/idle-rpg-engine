@@ -1,0 +1,474 @@
+fileFormatVersion: 2
+guid: 9c51e1b08cb9e8540992640be6debd7e
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 27
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: god_of_wishes_idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b3a50a861a74d14395aa7a50a431365
+      internalID: 1185432044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_1
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24edfb24ee9cc144a4b84bd95bedac4
+      internalID: -659519920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6b73d53b3473c4288ede3ca50ff115
+      internalID: -1866008342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_3
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 387.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0233179a9d0ff7f4d8f54252f6d139d4
+      internalID: 1073743719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4d8aa4d8011e34683464545ae5d611
+      internalID: 655285392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a91cf1055226b4cb76a0e4e3258110
+      internalID: -451534605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9828122292e4724bbfb8a75c8670036
+      internalID: 2116696373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_7
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 258.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52eeed216001162429c892ddae5caace
+      internalID: 1368481919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb11bf4ebb8fff546a71f35fff860dc9
+      internalID: 2109246805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_9
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a265a62ca08f87640aebcf428cac6156
+      internalID: -873212608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_10
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be79a4a5f2f2f6e4a9b3cbc59e6850d2
+      internalID: 940791035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_11
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 129.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635335c626c5fc34f8dae74103168acb
+      internalID: 341065207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f0c9a2ed7b2ae4bbb20a20fd21a44a
+      internalID: 1227035073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_13
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 0.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c61e09bff9754d478730302166701cf
+      internalID: -2046966176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 0.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6781a9d859bdd488e76d989b5a0c7e
+      internalID: -256385838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: god_of_wishes_idle_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 0.75
+        width: 193.25
+        height: 129.25
+      alignment: 9
+      pivot: {x: 0.67, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279f433c6c9fdb348890933cd0e19fcb
+      internalID: -524737527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      god_of_wishes_idle_11: 341065207
+      god_of_wishes_idle_12: 1227035073
+      god_of_wishes_idle_7: 1368481919
+      god_of_wishes_idle_6: 2116696373
+      god_of_wishes_idle_8: 2109246805
+      god_of_wishes_idle_10: 940791035
+      god_of_wishes_idle_2: -1866008342
+      god_of_wishes_idle_5: -451534605
+      god_of_wishes_idle_1: -659519920
+      god_of_wishes_idle_9: -873212608
+      god_of_wishes_idle_14: -256385838
+      god_of_wishes_idle_15: -524737527
+      god_of_wishes_idle_13: -2046966176
+      god_of_wishes_idle_0: 1185432044
+      god_of_wishes_idle_3: 1073743719
+      god_of_wishes_idle_4: 655285392
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

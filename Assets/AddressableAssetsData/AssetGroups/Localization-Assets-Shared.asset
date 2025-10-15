@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Localization-Assets-Shared
+  m_EditorClassIdentifier: 
+  m_GroupName: Localization-Assets-Shared
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 068431ddec1821c4da25133639a915e6
+  m_SerializeEntries:
+  - m_GUID: 752a5078bbe2a9344b522621c3bcf882
+    m_Address: Assets/Localization/Text Collection Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: e7bd642890988cf429c3017f4dc1a8fb
+    m_Address: Assets/Localization/Gameplay Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  - m_GUID: 4bc8f592ba9fd614e8e1d6ec58128d49
+    m_Address: Assets/Localization/Armory Shared Data.asset
+    m_ReadOnly: 1
+    m_SerializedLabels: []
+  m_ReadOnly: 1
+  m_Settings: {fileID: 11400000, guid: 6736bdf959dcc15429384ec43e18b793, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 5041bf9a7ba37bb48af31b6b2c74f64d, type: 2}
+    - {fileID: 11400000, guid: 4362fd345a3d9b546856126e26456926, type: 2}

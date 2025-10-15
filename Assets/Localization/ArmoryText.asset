@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5be51871efa6c3e4eae1703925c8f5ac, type: 3}
+  m_Name: ArmoryText
+  m_EditorClassIdentifier: 
+  m_SharedTableData: {fileID: 11400000, guid: 4bc8f592ba9fd614e8e1d6ec58128d49, type: 2}
+  m_Tables:
+  - {fileID: 11400000, guid: a84b1a37fed9ed24185929352814098a, type: 2}
+  - {fileID: 11400000, guid: ae9c303b42756b84babc92e47ece8c4a, type: 2}
+  - {fileID: 11400000, guid: 1c38445e95b82e246bb2dca9d85629cd, type: 2}
+  m_Extensions:
+  - rid: 4168736036690853888
+  m_Group: String Table
+  references:
+    version: 2
+    RefIds:
+    - rid: 4168736036690853888
+      type: {class: CsvExtension, ns: UnityEditor.Localization.Plugins.CSV, asm: Unity.Localization.Editor}
+      data:
+        m_Collection: {fileID: 11400000}
+        m_ColumnsList:
+        - rid: 4168736036690853889
+        - rid: 4168736036690853890
+        - rid: 4168736036690853891
+        - rid: 4168736036690853892
+        m_ConnectedFile: 
+    - rid: 4168736036690853889
+      type: {class: KeyIdColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_IncludeId: 0
+        m_IncludeSharedComments: 1
+        m_KeyFieldName: Key
+        m_IdFieldName: 
+        m_CommentFieldName: Shared Comments
+    - rid: 4168736036690853890
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: en
+        m_FieldName: English(en)
+        m_CommentFieldName: English(en) Comments
+        m_IncludeComments: 1
+    - rid: 4168736036690853891
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: ja
+        m_FieldName: Japanese(ja)
+        m_CommentFieldName: Japanese(ja) Comments
+        m_IncludeComments: 1
+    - rid: 4168736036690853892
+      type: {class: LocaleColumns, ns: UnityEditor.Localization.Plugins.CSV.Columns, asm: Unity.Localization.Editor}
+      data:
+        m_LocaleIdentifier:
+          m_Code: pt
+        m_FieldName: Portuguese(pt)
+        m_CommentFieldName: Portuguese(pt) Comments
+        m_IncludeComments: 1

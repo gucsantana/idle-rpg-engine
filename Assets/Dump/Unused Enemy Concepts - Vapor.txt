@@ -1,0 +1,66 @@
+_ENEMYLIST = new EnemyType[] {
+			new EnemyType ( _id : 0, _name : "Macintire Plus",			_hpValue : 200, _level : 2, _atkValue : 25, _defValue :  4, _evaValue : 2, _expValue : 10, _tag : "humanoid", _modelName : "imp", _specialId : "" ,
+																_encounterQuote : "You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "The computer readies to play a particularly compressed .mp3 file at you, but softlocks.",
+																_battleQuote : new string[]{
+																	"The computer deals a frankly unfair hand to you on Solitaire, demoralizing you for $dmg damage.",
+																	"Your crush has clearly ignored your fancy MSN status message. Ouch. It hits you for $dmg damage."
+																}),
+			new EnemyType ( _id : 1, _name : "Gaius Caesar", 			_hpValue : 200, _level : 3, _atkValue : 12, _defValue :  7, _evaValue : 0, _expValue : 20, _tag : "machine", _modelName : "idol", _specialId : "" ,
+																_encounterQuote : "The sounds of a phalanx of armored warriors galloping on the sand converges on you, and the bust of Gaius Caesar stares you down.",
+																_missQuote : "Gaius shines in the sun, but you remind him that Rome just isn't all that important anymore, to his silent chagrin.",
+																_battleQuote : new string[]{
+																	"The bust remains motionless, but you feel wistful at the thought of the grandiosity of his empire. $dmg damage.",
+																	"You're pretty sure you saw the bust move an inch. Is it looking at you? Oh gosh, I think it is. Your neck tenses up for $dmg damage."
+																}),
+			new EnemyType ( _id : 2, _name : "Dial-up Connection",		_hpValue : 150, _level : 4, _atkValue : 18, _defValue :  5, _evaValue : 3, _expValue : 30, _tag : "humanoid", _modelName : "lizard_knight", _specialId : "" ,
+																_encounterQuote : "A dial up internet connection approaches you. It takes a sweet while to actually reach you.",
+																_missQuote : "The connection lobs an AOL disc at you, but you already have experience dodging their advances.",
+																_battleQuote : new string[]{
+																	"Oh no! Mom just picked up the phone and you got booted off Runescape! $dmg damage.",
+																	"The lewd image you opened stopped loading halfway through and you just wasted a perfectly good night alone. $dmg damage.",
+																	"BZZZZT SCREEEEEEEEEEE DONDONDONDON TSTSTSTSTS BZZZZZZZZT. $dmg damage, and your ears ring."
+																}),
+			new EnemyType ( _id : 3, _name : "Juice Stand Girl", 			_hpValue : 70, _level : 3, _atkValue : 8, _defValue :  3, _evaValue : 3, _expValue : 30, _tag : "humanoid", _modelName : "lizard_knight", _specialId : "" ,
+																_encounterQuote : 
+																	"You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "",
+																_battleQuote : new string[]{"$dmg"
+																}),
+			new EnemyType ( _id : 4, _name : "Discounted Toy Aisle", 		_hpValue : 50, _level : 4, _atkValue : 11, _defValue :  4, _evaValue : 5, _expValue : 40, _tag : "humanoid", _modelName : "alchemist", _specialId : "" ,
+																_encounterQuote : 
+																	"You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "",
+																_battleQuote : new string[]{"$dmg"
+																}),
+			new EnemyType ( _id : 5, _name : "Plastic Palm Tree", 		_hpValue : 50, _level : 4, _atkValue : 11, _defValue :  4, _evaValue : 5, _expValue : 40, _tag : "humanoid", _modelName : "alchemist", _specialId : "" ,
+																_encounterQuote : 
+																	"You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "",
+																_battleQuote : new string[]{"$dmg"
+																}),
+			new EnemyType ( _id : 6, _name : "Sleep Paralysis Demon",	_hpValue : 500, _level : 5, _atkValue : 18, _defValue :  3, _evaValue : 10, _expValue : 120, _tag : "flying", _modelName : "imp", _specialId : "" ,
+																_encounterQuote : 
+																	"You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "",
+																_battleQuote : new string[]{"$dmg"
+																}),
+			new EnemyType ( _id : 7, _name : "He Who Watches",		_hpValue : 600, _level : 6, _atkValue : 6, _defValue :  20, _evaValue : 3, _expValue : 180, _tag : "humanoid", _modelName : "imp", _specialId : "" ,
+																_encounterQuote : 
+																	"You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "",
+																_battleQuote : new string[]{"$dmg"
+																}),
+			new EnemyType ( _id : 8, _name : "An Old Couch",			_hpValue : 600, _level : 6, _atkValue : 6, _defValue :  20, _evaValue : 3, _expValue : 180, _tag : "humanoid", _modelName : "imp", _specialId : "" ,
+																_encounterQuote : 
+																	"You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "",
+																_battleQuote : new string[]{"$dmg"
+																}),
+			new EnemyType ( _id : 9, _name : "The Spirit of Vapor", 		_hpValue : 3000, _level : 7, _atkValue : 26, _defValue :  12, _evaValue : 0, _expValue : 2000, _tag : "machine", _modelName : "idol", _specialId : "" ,
+																_encounterQuote : 
+																	"You hear the buzz of a CRT monitor demagnetizing. A Macintire Plus personal computer approaches!",
+																_missQuote : "",
+																_battleQuote : new string[]{"$dmg"
+																})
+		};

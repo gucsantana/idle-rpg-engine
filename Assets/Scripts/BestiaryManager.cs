@@ -68,8 +68,8 @@ public class BestiaryManager : MonoBehaviour
 			// // 6: WATER ELEMENTAL
 			new EnemyType ( _id : 6, _hpValue : 1450, _level : 7, _atkValue : 43, _defValue :  5, _evaValue : 10, _expValue : 80, _tag : "elemental", _modelName : "waterelem", _boss : false, _specialId : "",_battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 1.8f, _attackTiming : 0.64f),
 			// // 7: THE GOD OF WISHES
-			new EnemyType ( _id : 7, _hpValue : 40, _level : 10, _atkValue : 40, _defValue :  8, _evaValue : 0, _expValue : 2000, _tag : "avatar", _modelName : "god", _boss : true, _specialId : "",_battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 2f, _attackTiming : 0.5f)
-			// new EnemyType ( _id : 7, _hpValue : 4000, _level : 10, _atkValue : 40, _defValue :  8, _evaValue : 0, _expValue : 2000, _tag : "avatar", _modelName : "god", _boss : true, _specialId : "",_battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 2f, _attackTiming : 0.5f)
+			// new EnemyType ( _id : 7, _hpValue : 40, _level : 10, _atkValue : 40, _defValue :  8, _evaValue : 0, _expValue : 2000, _tag : "avatar", _modelName : "god", _boss : true, _specialId : "",_battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 2f, _attackTiming : 0.5f)
+			new EnemyType ( _id : 7, _hpValue : 4000, _level : 10, _atkValue : 40, _defValue :  8, _evaValue : 0, _expValue : 2000, _tag : "avatar", _modelName : "god", _boss : true, _specialId : "",_battleQuoteAmt : 2, _table : ref _bestiaryTable, _modelHeight : 2f, _attackTiming : 0.5f)
 		};
 	}
 	
@@ -110,7 +110,7 @@ public class BestiaryManager : MonoBehaviour
 		_AREA2ENEMIES.Add(_ENEMYLIST[2], 60);	// MECHANICAL SENTRY
 		_AREA2ENEMIES.Add(_ENEMYLIST[3], 100);  // HALL MONITOR
 		// ------ AREA 3 ------
-		_AREA3ENEMIES.Add(_ENEMYLIST[4], 99);	// MERMAN
+		_AREA3ENEMIES.Add(_ENEMYLIST[4], 55);	// MERMAN
 		_AREA3ENEMIES.Add(_ENEMYLIST[5], 100);  // WATER ELEMENTAL
 		// ------ AREA 4 ------
 		_AREA4ENEMIES.Add(_ENEMYLIST[6], 100);  // GOD OF WISHES

@@ -3899,9 +3899,9 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6402297884179785197, guid: 36c0e40321191a34da37da96887c86f7, type: 3}
       propertyPath: _cutsceneText.Array.data[3]
-      value: 'Credits:    <br>Game Design, Character Design, Writing, Art:<br>   
-        Guilherme "Gulcasa" Santana<br><br> Additional SFX from freesound.org:<br> 
-        Bumblefly<br><br>   Thank you for playing, and let me know what you feel!'
+      value: 'Credits:    <br>Programming, Game Design, Character Design, Writing,
+        Art:<br>    Guilherme "Gulcasa" Santana<br><br> Additional SFX from freesound.org:<br> 
+        Bumblefly<br><br>   Thank you for playing, and let me know how you feel!'
       objectReference: {fileID: 0}
     - target: {fileID: 8682149001882065663, guid: 36c0e40321191a34da37da96887c86f7, type: 3}
       propertyPath: m_RootOrder
